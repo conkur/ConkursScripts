@@ -1,7 +1,7 @@
 #Persistent
 
 ; For each app you want to move to the first display, place its path in this var
-global appsToMove := ["C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe", "D:\Software\yuzu (Local)\yuzu-windows-msvc\yuzu.exe"]
+global appsToMove := ["C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe", "M:\Program Files\Firefox Developer Edition\firefox.exe"]
 
 ; If app x-coordinate is less than this var, then move the app to a new display
 moveAppIfXPositionIsUnder = 0
